@@ -1,6 +1,6 @@
-# mmSpyVR: Intercepting VR User's Activity from mmWave Signals Through Walls
+# mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality
 
-This is Pytorch implementation of our paper "mmSpyVR: Intercepting VR User's Activity from mmWave Signals Through Walls".
+This is Pytorch implementation of our paper "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality".
 ## Datasets
 
 | Data Type | Google Links | Baidu Links                                                 |
